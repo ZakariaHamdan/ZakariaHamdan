@@ -6,7 +6,7 @@ I'm a Software Engineer, graduated from Alexandria University, Computer and Comm
 
 more than 50000 line : php/laravel
 
-more than 10000 line: Java, C, Python, SQL, Matlab
+more than 10000 line: Java, C, Python, mySQL, Matlab
 
 more than 1000 line: Java, C, C#, Python, SQL, MATLAB, HTML, CSS
 
@@ -14,7 +14,7 @@ Familiar: Assembly
 
 I also can deal with:
 
-MongoDB & MySQL (Databases)
+MongoDB (Databases)
 Git (Version Control)
 
 🌱 I’m currently learning:
